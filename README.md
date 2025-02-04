@@ -37,11 +37,13 @@ Record a short video of your story to display here on your README. You can do th
 ## Story Description
 
 Write a description of the story that your animation showcases. Give addional context for your story here in the case your animation is more abstract and only has images and little text. Lastly, include what data in your project is represented in 2D arrays and how those directly relate to the story your animation showcase.
+
+The story that my project showcases are four of my favorite things. I chose this because the project is a personal narrative, and these things are a big part of my life. The data that my project represents in 2D arrays is the images of my dog (Luna), my boyfriend, my favorite food, and my favorite hobby. Another data that is stored in a 2d array is the different ways I like to tell people goodbye. These relate to my story that the animation showcases because it shows a personal narrative of my life.
+
 ## Image Filter Analysis
 
 Choose at least 2 filters uses in your animation to explain how the pixels are modified. If you created a new image filter that was not one of the ones from this unit, make sure to explain and analyze that filter(s) before choosing ones that came from this unit.
-English
-Help Center
-PRIVACY POLICY
-Terms of Use
-PowerSchool © 2025|Enhanced
+
+
+
+The first filter that I used was Zero red. This filter iterated through the pixels in a certain picture and once it was finished, it set all the pixels it went through with the red value at zero. The next filter that I used was pixelate. This filter used a parameter to determine the size of the new pixels. it found the average color of all the pixels then set the pixels in the surrounding area to be that average. 
